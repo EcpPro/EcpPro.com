@@ -3,9 +3,9 @@
 banner:
   enable : true
   bg_image : "images/background/banner.png"
-  title : "Manage Azure multi-tenant environments from a single application."
+  title : "Manage Azure multi-tenant environments from a single application"
   watermark : "EcpPro"
-  content : "Empowering MSPs and Enterprises to manage complex Azure environments."
+  content : "Empowering MSPs and Enterprises to manage complex Azure environments"
   image : "images/banner/banner-1.png"
   button:
     enable : true
