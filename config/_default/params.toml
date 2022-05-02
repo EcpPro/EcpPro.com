@@ -1,0 +1,58 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.ico"
+# logo
+logo = "images/logo.png"
+# OpenGraph / Twitter Card metadata
+description = "Multi-tenant Azure Management for MSPs and Enterprises"
+author = "EcpPro"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# contact info
+address = "Houston, TX. | Sydney Australia"
+mobile = ""
+email = "info@ecppro.com"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# Google Analitycs
+google_analitycs_id = "Your ID"
+# main sections
+mainSections = ["blog"]
+# search
+search = false
+# custom script on header
+custom_script= ""
+
+
+# Preloader
+[preloader]
+enable = true
+preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "sign up"
+link = "#"
+
+# cookies
+[cookies]
+enable = true
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+############################# social site ########################
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
+
+[[social]]
+title = "github"
+icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
+
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin-in" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"

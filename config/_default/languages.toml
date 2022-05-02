@@ -1,0 +1,11 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "EcpPro, the professional Azure Cloud Control Panel enables management of multiple Azure tenancies from a single pane of glass. It is a comprehensive and very easy to use Control Panel specially developed to manage complex Multi-tenant Azure environments."
+# copyright
+copyright = "Developed By [EcpPro](https://ecppro.com/) - &copy; Copyright EcpPro 2022. All Rights Reserved."
