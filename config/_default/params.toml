@@ -9,8 +9,8 @@ author = "EcpPro"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Houston, TX. | Sydney Australia"
-mobile = ""
-email = "info@ecppro.com"
+#mobile = ""
+#email = "info@ecppro.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/myyobaoj" # contact form works with https://formspree.io
 # Google Analitycs
