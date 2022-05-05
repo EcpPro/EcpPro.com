@@ -33,7 +33,7 @@ pricing:
     price : "$3"
     unit : "month"
     description : "Annual subscription"
-    link : "contact"
+    link : "https:/ecppro.com/contact"
     services:
     - "Free features +"
     - "Up to 10 Tenants"
@@ -46,7 +46,7 @@ pricing:
     price : "$5"
     unit : "month"
     description : "Annual Subscription"
-    link : "contact"
+    link : "https:/ecppro.com/contact"
     services:
     - "Premium features +"    
     - "Unlimited Tenants"
