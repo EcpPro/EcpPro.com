@@ -45,22 +45,38 @@ feature:
      #feature item loop
     - name : "Affordable"
       image : "images/feature/feature-1.png"
-      content : "The EcpPro pricing plans are tailored to suit any size MSP or Enterprise. EcpPro pays for itself through increased efficiency and time saving."
+      content : "The EcpPro pricing plans are tailored to suit any size MSP or Enterprise. 
+      <br/><br/>
+      EcpPro pays for itself through increased efficiency and time saving."
       
      #feature item loop
     - name : "Compliance"
       image : "images/feature/feature-2.png"
-      content : "All changes are fully tracked, making your audits much easier. Dashboard to review current security status, unused or unnecessary licenses quickly."
+      content : "All changes are fully tracked, making your audits much easier. 
+      <br/><br/>
+      Dashboard to review current security status, unused or unnecessary licenses quickly."
 
      #feature item loop
     - name : "Native Azure Integration"
       image : "images/feature/feature-3.png"
-      content : "Quick access to relevant information. User lists are customizable and allows to filtering on: License allocated, Login disabled, Office location, Ecp Security roles, Azure roles, Authorization level, Date created and more."
+      content : "Quick access to relevant information. 
+      <br/><br/>
+      User lists are customizable and allows to filtering on:
+      <br/><br/>
+      License allocated
+      <br/>
+      Login disabled
+      <br/>
+      Office location
+      <br/>
+      Ecp Security roles
+      <br/>
+      Azure roles
+      <br/>
+      Authorization level
+      <br/>
+      Date created and more"
 
-     #feature item loop
-    - name : "Multi Tenant"
-      image : "images/feature/feature-2.png"
-      content : "Quick access to relevant information. User lists are customizable and allows to filtering on: License allocated, Login disabled, Office location, Ecp Security roles, Azure roles, Authorization level, Date created and more."
 
 ############################## pricing ###########################
 pricing:
