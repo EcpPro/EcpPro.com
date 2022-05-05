@@ -17,8 +17,8 @@ about:
   video_thumbnail : "images/about/about-4.jpg"
   #video_link : "https://www.youtube.com/watch?v=VufDd-QL1c0"
   subtitle : "About EcpPro"
-  title : "Managing hundreds or thousands of users in Azure, across multipe tenancies?"
-  content : "We couldn't find a tool to help us manage users, groups, mailboxes, licenses, on-boarding, off-boarding, consolidated billing and many other tedious daily tasks across multiple Azure tenancies, so we built it! EcpPro enables MSPs and Enterprises to manage thousands of customers in Azure across multipe tenancies from a single pane of glass."
+  title : "Managing hundreds or thousands of users in Azure, across multiple tenancies?"
+  content : "We couldn't find a tool to help us manage users, groups, mailboxes, licenses, on-boarding, off-boarding, consolidated billing and many other tedious daily tasks across multiple Azure tenancies, so we built it! EcpPro enables MSPs and Enterprises to manage thousands of customers in Azure across multiple tenancies from a single pane of glass."
   button:
     enable : true
     label : "Contact Us"

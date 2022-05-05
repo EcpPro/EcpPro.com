@@ -19,7 +19,7 @@ about:
     # about item loop
     - image : "images/about/about-1.png"
       subtitle : "about ecppro"
-      title : "EcpPro Enterprice Azure Cloud Management"
+      title : "EcpPro Enterprise Azure Cloud Management"
       content : "Do you have a complex Azure tenancy to manage, or have you ended up with multiple Azure tenants through acquisitions or mergers?"
       button:
         enable : true
@@ -30,7 +30,7 @@ about:
     - image : "images/about/about-2.png"
       subtitle : "about ecppro"
       title : "EcpPro MSP Client Management"
-      content : "Do you have clients with multiple Azure tenancies? Are your margins being erroded because of the complexity of dealing with multiple Azure tenantcies?"
+      content : "Do you have clients with multiple Azure tenancies? Are your margins being eroded because of the complexity of dealing with multiple Azure tenancies?"
       button:
         enable : true
         label : "Contact us"
@@ -45,7 +45,7 @@ feature:
      #feature item loop
     - name : "Affordable"
       image : "images/feature/feature-1.png"
-      content : "The EcpPro pricing plans are tailored to suit any size MSP or Enterprise. EcpPro pays for itself hrough increased efficiency and time saving."
+      content : "The EcpPro pricing plans are tailored to suit any size MSP or Enterprise. EcpPro pays for itself through increased efficiency and time saving."
       
      #feature item loop
     - name : "Compliance"

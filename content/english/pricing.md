@@ -24,7 +24,7 @@ pricing:
     services:
     - "Multi Tenant"
     - "Instant security and license status"
-    - "Quick access to relevant informaiton"
+    - "Quick access to relevant information"
     - "Customizable per tenant"
 
 

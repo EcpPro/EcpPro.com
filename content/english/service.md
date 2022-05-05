@@ -27,7 +27,7 @@ service:
     
     - All Tenants under a customer"
 
-  - title : "Quick access to relevant informaiton"
+  - title : "Quick access to relevant information"
     icon : "fas fa-cloud"
     icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "User list is customizable and allows to filter based on Licenses allocated, Login disabled, Office location, Ecp Security roles, Azure roles, Authorization level, Date created and more."
@@ -76,7 +76,7 @@ feature:
     content : "
     - Service teams often receive action items need to be performed in the future, like redirect person A's email to Person B, from Friday onwards and stop forwarding in two weeks 
     
-    - Automatically disable a user account and start the offboarding process at 5 pm on Friday 
+    - Automatically disable a user account and start the off-boarding process at 5 pm on Friday 
     
     - These types of actions can be scheduled to happen automatically at a specified date and time using the EcpPro control panel"
     
@@ -112,7 +112,7 @@ feature:
   - title : "Coming features"
     icon : "fas fa-keyboard"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "EcpPro is actively being developed and will include freatures like: 
+    content : "EcpPro is actively being developed and will include features like: 
     
     - Monthly usage report generation for business units
     
