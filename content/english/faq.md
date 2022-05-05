@@ -11,14 +11,14 @@ description: "What our users frequently ask."
 ### Services?
 <br>
 
-##### Q1 - <<TODO>>?
+##### Q1 - As an MSP, do I need a license for my Administrative staff?
 
-Answer here. 
+Yes, staff working for an MSP will need to register their own tenancy with EcpPro and it will consume a license. 
 
 
-##### Q2 - <<TODO>>?
+##### Q2 - Do you support AWS or GCP?
 
-Answer here. 
+EcpPro is designed to manage only Azure Tenancies. 
 
 
 <hr>
@@ -26,6 +26,6 @@ Answer here.
 ### Pricing
 <br>
 
-##### Q1 - What is the price <<TODO>>
+##### Q1 - Can I pay month by month?
 
-Answer here.
+You can pay month by month, howeve there is a discount for annual subscriptions.
