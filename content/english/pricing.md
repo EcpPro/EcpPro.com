@@ -20,7 +20,7 @@ pricing:
     price : "$0"
     unit : "month"
     description : "2 Tenants max"
-    link : "/contact"
+    link : "https:/ecppro.com/contact"
     services:
     - "Multi Tenant"
     - "Instant security and license status"
