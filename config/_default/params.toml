@@ -14,7 +14,7 @@ email = "info@ecppro.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "Your ID"
+google_analitycs_id = "G-LW52SKM1MH"
 # main sections
 mainSections = ["blog"]
 # search
@@ -29,30 +29,30 @@ enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Navigation button
-[navigation_button]
-enable = true
-label = "sign up"
-link = "#"
+#[navigation_button]
+#enable = true
+#label = "sign up"
+#link = "#"
 
 # cookies
-[cookies]
-enable = true
-expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+#[cookies]
+#enable = true
+#expire_days = 2
+#content = "This site uses cookies. By continuing to use this website, you agree to their use."
+#button = "I Accept"
 
 ############################# social site ########################
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/ecppro"
 
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+#[[social]]
+#title = "github"
+#icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+#link = "#"
 
-[[social]]
-title = "linkedin"
-icon = "fab fa-linkedin-in" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+#[[social]]
+#title = "linkedin"
+#icon = "fab fa-linkedin-in" # fontawesome icon pack : https://fontawesome.com/icons/
+#link = "#"

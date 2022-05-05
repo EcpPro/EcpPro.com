@@ -9,29 +9,29 @@ banner:
   image : "images/banner/banner-1.png"
   button:
     enable : true
-    label : "Get EcpPro"
+    label : "Coming soon"
     link : "#"
 
 ################################ Features ###############################
-feature:
-  enable : true
-  subtitle : "EcpPro features"
-  title : "exclusive features"
-  feature_item:
+#feature:
+  #enable : true
+  #subtitle : "EcpPro features"
+  #title : "exclusive features"
+  #feature_item:
     # feature item loop
-    - name : "Affordable"
-      image : "images/feature/feature-1.png"
-      content : "The EcpPro pricing plans are tailored to suit any size MSP or Enterprise. EcpPro pays for itself through increased efficiency and time saving."
+    #- name : "Affordable"
+    #  image : "images/feature/feature-1.png"
+    #  content : "The EcpPro pricing plans are tailored to suit any size MSP or #Enterprise. EcpPro pays for itself through increased efficiency and time saving."
       
     # feature item loop
-    - name : "Compliance"
-      image : "images/feature/feature-2.png"
-      content : "All changes are fully tracked, making your audits much easier."
+    #- name : "Compliance"
+    #  image : "images/feature/feature-2.png"
+    #  content : "All changes are fully tracked, making your audits much easier."
 
     # feature item loop
-    - name : "Native Azure Integration"
-      image : "images/feature/feature-3.png"
-      content : "EcpPro was built from the ground up to be Azure Cloud native. It integrates with all Microsoft Azure services."
+    #- name : "Native Azure Integration"
+    #  image : "images/feature/feature-3.png"
+    #  content : "EcpPro was built from the ground up to be Azure Cloud native. It #integrates with all Microsoft Azure services."
 
 ##################################### About #############################
 about:
@@ -44,7 +44,7 @@ about:
       content : "Do you have a complex Azure tenancy to manage, or have you ended up with multiple Azure tenants through acquisition, merger or lack of planning?"
       button:
         enable : true
-        label : "read more"
+        label : "Coming soon"
         link : "about"
         
     # about item loop
@@ -54,14 +54,14 @@ about:
       content : "Do you have clients with multiple Azure tenancies? Are your margins being erroded because of the complexity of dealing with multiple Azure tenantcies?"
       button:
         enable : true
-        label : "Read more"
+        label : "Coming soon"
         link : "about"
 
    
 ############################## pricing ###########################
-pricing:
-  enable : true
-  section : "pricing"
-  show_items : 3
+#pricing:
+#  enable : true
+#  section : "pricing"
+#  show_items : 3
   # pricing item comes from "content/*/pricing.md"
 ---

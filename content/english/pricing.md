@@ -7,40 +7,50 @@ page_header_image: "images/background/about.jpg"
 # meta description
 description : "Prices scale with the size and complexity of the environment."
 
+
 layout: "pricing"
 draft: false
-
 pricing:
   subtitle : "Pricing table"
   title : "choose your plan"
   pricing_table:
+
   # pricing table loop
-  - title : "Basic"
-    price : "$3"
+  - title : "Free"
+    price : "$0"
     unit : "month"
-    description : "Best for <<TODO>>"
+    description : "2 Tenants max"
     link : "#"
     services:
-    - "User Management"
-    - "Email Templates"
-      
+    - "Multi Tenant"
+    - "Instant security and license status"
+    - "Quick access to relevant informaiton"
+    - "Customizable per tenant"
+
+
   # pricing table loop
   - title : "Standard"
-    price : "$5"
+    price : "$3"
     unit : "month"
-    description : "Best for <<TODO>>"
+    description : "Annual subscription"
     link : "#"
     services:
-    - "Consolidated Licenses"
-    - "Virtual Desktop Management"
+    - "Free features +"
+    - "Up to 10 Tenants"
+    - "Scheduled Actions"    
+    - "$3.60 month by month option"
+
       
   # pricing table loop
   - title : "Premium"
-    price : "$7"
+    price : "$5"
     unit : "month"
-    description : "Best for <<TODO>>"
+    description : "Annual Subscription"
     link : "#"
     services:
-    - "Automation"
-    - "Analytics"
+    - "Premium features +"    
+    - "Unlimited Tenants"
+    - "Tenant Groups & Workflows"
+    - "$6 month by month option"
+    - "Azure Virtual Desktop Management ($2 additional per user)"
 ---
