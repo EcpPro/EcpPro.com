@@ -20,7 +20,7 @@ pricing:
     price : "$0"
     unit : "month"
     description : "2 Tenants max"
-    link : "https:/ecppro.com/contact"
+    link : "/contact"
     services:
     - "Multi Tenant"
     - "Instant security and license status"
@@ -33,7 +33,7 @@ pricing:
     price : "$3"
     unit : "month"
     description : "Annual subscription"
-    link : "https:/ecppro.com/contact"
+    link : "/contact"
     services:
     - "Free features +"
     - "Up to 10 Tenants"
@@ -46,7 +46,7 @@ pricing:
     price : "$5"
     unit : "month"
     description : "Annual Subscription"
-    link : "https:/ecppro.com/contact"
+    link : "/contact"
     services:
     - "Premium features +"    
     - "Unlimited Tenants"
