@@ -8,7 +8,7 @@ description = "Multi-tenant Azure Management for MSPs and Enterprises"
 author = "EcpPro"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "Houston, TX. | Sydney Australia"
+##address = "Houston, TX. | Sydney Australia"
 #mobile = ""
 #email = "info@ecppro.com"
 # contact form action
